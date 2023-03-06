@@ -6,8 +6,11 @@
 
 .imagem-logo {
   background-image: url("../../../public/imagens/logo-pequeno.png");
+  background-repeat: no-repeat;
+  background-size: 225px;
+  background-position: center;
   width: 351px;
-  height: 117px;
+  min-height: 117px;
 }
 
 .participante {
